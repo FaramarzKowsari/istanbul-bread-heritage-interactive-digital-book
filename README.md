@@ -1,64 +1,159 @@
-# istanbul-bread-heritage-digital-book
-"A comprehensive digital guide to 30 authentic Turkish breads and pastries from Istanbul. Featuring high-quality visuals, multi-language support (English, Turkish, Persian), and AI-powered audio narration. Explore the rich heritage of Turkish bakery culture. Created by Faramarz Kowsari."
-
-🥖 Scent of Istanbul: The Ultimate Turkish Bread Guide
-
-Welcome to Scent of Istanbul, a premium digital book and interactive guide to the world-renowned bakery culture of Turkey. This project showcases 30 authentic types of Turkish breads and pastries, ranging from the iconic Simit to the rich Laz Böreği.
-
-🌟 Features
-
-30 Deep-Dive Pages: Detailed exploration of traditional Turkish sourdoughs, flatbreads, and sweet pastries.
-
-Trilingual Support: Switch seamlessly between English, Turkish, and Persian.
-
-Audio Narration: Listen to professional-grade audio descriptions in English and Turkish (powered by Gemini TTS).
-
-Interactive Player: Control playback speed, volume, and progress with a sleek, glassmorphism-style audio player.
-
-Static & Fast: Optimized for GitHub Pages, using static high-quality assets for instant loading.
-
-Responsive Design: A beautiful "Digital Book" experience on mobile, tablet, and desktop.
-
-📖 Culinary Content Includes
-
-Breads: Simit, Ekmek, Ramazan Pidesi, Bazlama, Tandır Ekmeği, and more.
-
-Pastries: Açma, Poğaça, Gözleme, Boyoz, Kol Böreği.
-
-Sweets: Revani, Şekerpare, Ay Çöreği, Laz Böreği.
-
-🛠️ Tech Stack
-
-React.js for the core interactive experience.
-
-Tailwind CSS for modern, responsive styling.
-
-Lucide React for clean, minimal iconography.
-
-Google Gemini API for advanced text-to-speech generation.
-
-🚀 How to Run Locally
-
-Clone the repository:
-
-git clone [https://github.com/YOUR_USERNAME/turkish-bread-book-istanbul.git](https://github.com/YOUR_USERNAME/turkish-bread-book-istanbul.git)
+# 🥖 The Bread Heritage of Istanbul
+## An Interactive Trilingual Digital Book About Turkish Breads
 
 
-Navigate to the project folder:
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="700">
+</p>
 
-cd turkish-bread-book-istanbul
+
+## 🌍 About This Project
+
+**The Bread Heritage of Istanbul** is an interactive digital book created to preserve and present the rich cultural heritage of Istanbul's traditional breads and bakery products.
+
+This project combines:
+
+- Cultural storytelling
+- Modern web technology
+- Interactive digital publishing
+- Multilingual education
+- Audio narration
 
 
-Open index.html in your browser (or deploy the React build).
+The experience is available in three languages:
 
-👨‍💻 About the Developer
+🇹🇷 Turkish  
+🇬🇧 English  
+🇮🇷 Persian  
 
-Faramarz Kowsari is a developer and author passionate about merging technology with cultural heritage.
 
-📧 Email: info@faramarzkowsari.com
+English and Turkish versions include audio narration, creating an immersive multimedia reading experience.
 
-🔗 LinkedIn: Faramarz Kowsari
 
-📚 Google Play: Discover My Books
 
-Created with ❤️ to celebrate the rich flavors of Istanbul.
+## ✨ Key Features
+
+### 🌐 Trilingual Experience
+
+The project supports:
+
+- Turkish
+- English
+- Persian
+
+
+Users can explore Istanbul's bread culture through multiple languages.
+
+
+
+### 🔊 Audio Narration
+
+The English and Turkish versions include audio narration using modern web technologies.
+
+Features:
+
+- Browser-based speech experience
+- No external audio service dependency
+- Accessible cultural storytelling
+
+
+
+### 📱 Interactive Digital Book Experience
+
+Designed as a modern web-based book:
+
+- Responsive interface
+- Visual storytelling
+- Interactive navigation
+- Multimedia content
+- Mobile-friendly experience
+
+
+
+## 🥯 Cultural Scope
+
+The project introduces traditional Istanbul bakery products and explores:
+
+- Historical background
+- Cultural importance
+- Regional identity
+- Traditional preparation methods
+- The relationship between food and urban memory
+
+
+
+## 🏛️ Digital Cultural Heritage
+
+This project demonstrates how technology can help preserve intangible cultural heritage.
+
+By combining:
+
+- Artificial intelligence era technologies
+- Web development
+- Digital publishing
+- Multimedia storytelling
+
+traditional knowledge can become accessible to global audiences.
+
+
+
+## 🛠️ Technologies
+
+Built with modern web technologies:
+
+- React
+- Tailwind CSS
+- JavaScript
+- Web Speech API
+- Responsive Web Design
+
+
+## 🚀 Live Demo
+
+Visit the interactive digital book:
+
+[Open Project Website](YOUR_GITHUB_PAGES_LINK)
+
+
+
+## 👨‍💻 Author
+
+**Faramarz Kowsari**
+
+Author, Software Engineer and AI Researcher based in Istanbul.
+
+His works focus on the intersection of:
+
+- Artificial Intelligence
+- Technology
+- Education
+- Digital Publishing
+- Cultural Preservation
+
+
+## 🔗 Official Profiles
+
+- GitHub:
+https://github.com/FaramarzKowsari
+
+- LinkedIn:
+https://www.linkedin.com/in/faramarzkowsari
+
+- ORCID:
+https://orcid.org/0000-0003-1692-0453
+
+- Wikidata:
+https://www.wikidata.org/wiki/Q140389378
+
+
+## 📌 Purpose
+
+This repository is created as an open digital heritage project demonstrating how modern software technologies can transform cultural knowledge into accessible interactive experiences.
+
+
+## ⭐ Support
+
+If you find this project interesting:
+
+- Star ⭐ the repository
+- Share it with others interested in Turkish culture, digital humanities, and web technologies
