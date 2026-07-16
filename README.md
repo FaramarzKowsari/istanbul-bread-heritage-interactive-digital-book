@@ -112,7 +112,7 @@ Built with modern web technologies:
 
 Visit the interactive digital book:
 
-[Open Project Website](YOUR_GITHUB_PAGES_LINK)
+https://faramarzkowsari.github.io/istanbul-bread-heritage-interactive-digital-book/
 
 
 
