@@ -161,6 +161,44 @@ https://scholar.google.com/citations?user=G7tP5WMAAAAJ&hl=en
 - Google Books: 
 https://play.google.com/store/search?q=Faramarz_Kowsari&c=books
 
+## Citation
+
+This repository includes a machine-readable
+[`CITATION.cff`](./CITATION.cff) file.
+
+You can use GitHub’s **Cite this repository** menu or cite the permanently
+archived Zenodo release:
+
+> Kowsari, F. (2026). *The Bread Heritage of Istanbul: Interactive  
+> Trilingual Digital Book* (Version 1.0.0) [Computer software]. Zenodo.  
+> https://doi.org/10.5281/zenodo.21396781
+
+<p align="left">
+  <a href="https://doi.org/10.5281/zenodo.21396781">
+    <img
+      src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21396781-1682D4?style=flat-square"
+      alt="DOI: 10.5281/zenodo.21396781"
+    />
+  </a>
+</p>
+
+<details>
+<summary><strong>BibTeX citation</strong></summary>
+
+```bibtex
+@software{kowsari_2026_istanbul_bread,
+  author    = {Faramarz Kowsari},
+  title     = {The Bread Heritage of Istanbul:
+               Interactive Trilingual Digital Book},
+  version   = {1.0.0},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21396781},
+  url       = {https://doi.org/10.5281/zenodo.21396781}
+}
+```
+
+</details>
 
 ## 📌 Purpose
 
